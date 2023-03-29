@@ -1,14 +1,13 @@
 import React from "react"
 import { FaEnvelopeSquare } from 'react-icons/fa';
 import { FaLinkedin} from 'react-icons/fa';
-import { imagen } from "./assets/fran.jpg";
 
 
 export default function Info(){
     return (
         <div className="info">
             <div className="img-wrapper">
-            <img src={ imagen }/>
+            <img src="./assets/fran.jpg"/>
             </div>
             <h1 className="info--title">Fran Páez</h1>
             <h4 className="info--secondTitle">Frontend Developer</h4>
