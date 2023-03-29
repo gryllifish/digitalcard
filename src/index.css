@@ -1,0 +1,22 @@
+body{
+  background-color: #23252C;
+  margin: 0;
+  height: auto;
+
+}
+
+#root{
+  width: 100%;
+  font-family: 'Inter', sans-serif;
+
+}
+.App{
+  border-radius: 10px;
+  width: 317px;
+  margin: 0.1em auto 0 auto;
+}
+a{
+  color: #4A4E74;
+  font-style: none;
+  text-decoration: none;
+}
