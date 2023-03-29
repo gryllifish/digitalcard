@@ -1,7 +1,7 @@
 import React from "react"
 import { FaEnvelopeSquare } from 'react-icons/fa';
 import { FaLinkedin} from 'react-icons/fa';
-import { imagen } from "./images/fran.jpg";
+import { imagen } from "./src/assets/fran.jpg";
 
 
 export default function Info(){
