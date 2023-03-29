@@ -5,7 +5,7 @@ export default function Info(){
     return (
         <div className="info">
             <div className="img-wrapper">
-            <img src="fran.jpeg"/>
+            <img src="./src/images/fran.jpeg"/>
             </div>
             <h1 className="info--title">Fran Páez</h1>
             <h4 className="info--secondTitle">Frontend Developer</h4>
